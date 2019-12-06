@@ -1,2 +1,2 @@
-# site-2
+# Creative-Studio
 This site is only for presentation!
